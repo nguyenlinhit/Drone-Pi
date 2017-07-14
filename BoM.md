@@ -16,5 +16,5 @@ Amount | Description | Link |
 1 | Micro USB Power Cable | [Amazon](http://amzn.asia/h1AvwfU)
 1 | Raspberry Pi | [Amazon](http://amzn.asia/1p30hru)
 1 | 16GB+ Micro SD | [Akizuki 16GB](http://akizukidenshi.com/catalog/g/gS-12175/), [Amazon 64GB](http://amzn.asia/82pA7Aj)
-1 | Raspberry Pi Camera (Normal or NOIR) | [Akizuki Normal](http://akizukidenshi.com/catalog/g/gM-10476/) or [Akizuki NOIR](http://akizukidenshi.com/catalog/g/gM-10519/)
-Optional for NOIR | 5mm IR LED | [Akizuki](http://akizukidenshi.com/catalog/g/gI-03261/)
+1 | Raspberry Pi Camera (Normal or NoIR) | [Akizuki Normal](http://akizukidenshi.com/catalog/g/gM-10476/) or [Akizuki NoIR](http://akizukidenshi.com/catalog/g/gM-10519/)
+Optional for NoIR | 5mm IR LED | [Akizuki](http://akizukidenshi.com/catalog/g/gI-03261/)
