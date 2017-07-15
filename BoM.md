@@ -12,7 +12,7 @@ Amount | Description | Link |
 1 | ESC Programming Card | [HobbyKing](https://hobbyking.com/en_us/hobbywing-multifunction-lcd-program-box.html)
 1 | Motor | [HobbyKing](https://hobbyking.com/en_us/ax-2810q-750kv-brushless-quadcopter-motor.html)
 1 | Prop | [HobbyKing](https://hobbyking.com/en_us/hobbyking-8482-propeller-7x4-5-black-cw-ccw-4pcs.html)
-1 | 4200 ｍAh Battery | [HobbyKing](https://hobbyking.com/en_us/multistar-high-capacity-4s-5200mah-multi-rotor-lipo-pack.html)
+2 | 6400 ｍAh 90C Battery | [HobbyKing](https://hobbyking.com/en_us/turnigy-nano-tech-ultimate-6400mah-1s2p-90c-hardcase-pack-roar-brca-approved.html)
 1 | 4S Battery Charger | [HobbyKing](https://hobbyking.com/en_us/hobbykingr-dc-4s-balance-charger-cell-checker-30w-2s-4s.html)
 1 | Mobile Battery | [Amazon](http://amzn.asia/83gyEGK)
 1 | Micro USB Power Cable | [Amazon](http://amzn.asia/h1AvwfU)
