@@ -3,6 +3,7 @@ Amount | Description | Link |
 ----- | ----- | -----|
 1 | GPS | [Akizuki](http://akizukidenshi.com/catalog/g/gK-09991/)
 1 | Gyro | [Akizuki](http://akizukidenshi.com/catalog/g/gK-06779/)
+1 | Accelerometer | [Akizuki](http://akizukidenshi.com/catalog/g/gK-06791/)
 1 | Magneto | [Akizuki](http://akizukidenshi.com/catalog/g/gK-09871/)
 1 | Temp/Baro/Humidiy meter | [Akizuki](http://akizukidenshi.com/catalog/g/gK-09421/)
 1 | Micro Switch | [Akizuki](http://akizukidenshi.com/catalog/g/gP-09187/)
